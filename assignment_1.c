@@ -40,7 +40,7 @@ int main()
         }
         else
         {
-            if(num2 > num3)
+            if(num2 < num3)
             {
                 printf("The middle number is %d\n", num2);
             }
@@ -58,7 +58,7 @@ int main()
         }
         else
         {
-            if(num2 < num3)
+            if(num2 > num3)
             {
                 printf("The middle number is %d\n", num2);
             }
